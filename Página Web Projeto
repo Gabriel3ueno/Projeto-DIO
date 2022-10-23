@@ -18,12 +18,12 @@
     <h3>Quem é beneficiado com a sua aplicação?</h3> 
     <p>Qualquer usuário que precise acessar determinado conteúdo em uma página ou aplicativo. O benefício é universal. Ao atender as diretrizes WCAG, não apenas usuários que possuem uma determinada deficiência são beneficiados, mas também idosos, crianças em fase de pré-alfabetização, analfabetos funcionais, pessoas com uma determinada deficiência ou dificuldade temporária e usuários sem qualquer tipo de deficiência.
     <h3>W3C e os níveis de acessibilidade WEB</h3>
-    <p>Nível A: é o menos exigente e inclui as páginas que cumprem certos critérios em conformidade com a WCAG como, por exemplo, a disponibilidade de legendas para áudios gravados ou as alternativas de texto para conteúdos audiovisuais, etc.
-    <p>Nível AA: é o intermediário e o mais requerido pelas entidades que expedem certificados de acessibilidade web. Reúne os websites que respeitam critérios mais avançados, como a disponibilidade de legendas para áudios ao vivo, audiodescrição, tamanho de texto aumentável, etc.
+    <p>Nível A: É o menos exigente e inclui as páginas que cumprem certos critérios em conformidade com a WCAG como, por exemplo, a disponibilidade de legendas para áudios gravados ou as alternativas de texto para conteúdos audiovisuais, etc.
+    <p>Nível AA: É o intermediário e o mais requerido pelas entidades que expedem certificados de acessibilidade web. Reúne os websites que respeitam critérios mais avançados, como a disponibilidade de legendas para áudios ao vivo, audiodescrição, tamanho de texto aumentável, etc.
     <p>Nível AAA: É o nível mais sofisticado de conformidade que pode ser alcançado. Ele atende os critérios do nível A, nível AA e nível AAA.
     <h3>Entendendo os Quatro Princípios de Acessibilidade</h3>
     <p>Perceptível - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber.
-    <p>Operável - os componentes da interface do usuário e a navegação devem ser operáveis.
+    <p>Operável - Os componentes da interface do usuário e a navegação devem ser operáveis.
     Isso significa que os usuários devem ser capazes de operar a interface (a interface não pode exigir interação que um usuário não possa realizar)
     <p>Compreensível - As informações e a operação da interface do usuário devem ser compreensíveis.
     Isso significa que os usuários devem ser capazes de entender as informações, bem como a operação da interface do usuário (o conteúdo ou a operação não pode estar além de sua compreensão)
