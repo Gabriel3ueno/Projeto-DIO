@@ -19,8 +19,8 @@
     <p>Qualquer usuário que precise acessar determinado conteúdo em uma página ou aplicativo. O benefício é universal. Ao atender as diretrizes WCAG, não apenas usuários que possuem uma determinada deficiência são beneficiados, mas também idosos, crianças em fase de pré-alfabetização, analfabetos funcionais, pessoas com uma determinada deficiência ou dificuldade temporária e usuários sem qualquer tipo de deficiência.
     <h3>W3C e os níveis de acessibilidade WEB</h3>
     <p>Nível A: é o menos exigente e inclui as páginas que cumprem certos critérios em conformidade com a WCAG como, por exemplo, a disponibilidade de legendas para áudios gravados ou as alternativas de texto para conteúdos audiovisuais, etc.
-    <p>Nivel AA: es el intermedio y el más requerido por las entidades que expiden certificaciones de accesibilidad web. Reúne los sitios web que respetan criterios más avanzados como la disponibilidad de subtítulos para audios en directo, la audiodescripción, el tamaño de texto aumentable, etc.
     <p>Nível AA: é o intermediário e o mais requerido pelas entidades que expedem certificados de acessibilidade web. Reúne os websites que respeitam critérios mais avançados, como a disponibilidade de legendas para áudios ao vivo, audiodescrição, tamanho de texto aumentável, etc.
+    <p>Nível AAA: É o nível mais sofisticado de conformidade que pode ser alcançado. Ele atende os critérios do nível A, nível AA e nível AAA.
     <h3>Entendendo os Quatro Princípios de Acessibilidade</h3>
     <p>Perceptível - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber.
     <p>Operável - os componentes da interface do usuário e a navegação devem ser operáveis.
