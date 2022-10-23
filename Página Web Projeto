@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Página principal</title>
+</head>
+<body>
+    <h1>Exemplo de matéria em um Blog</h1>
+    <hr />
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="https://guia-wcag.com/">Guia Wcag</a></li>
+
+
+    </ul>
+    <h2>O que é Wcag?</h2>
+    <p>WCAG são diretrizes e recomendações organizadas e mantidas pelo W3C que fundamentam a construção de conteúdos digitais com qualidade e acessíveis a qualquer pessoa independentemente de sua deficiência e/ou habilidade.
+    Atualmente na versão 2.1 (2018), desde a versão 2.0 (2008) foram organizadas de forma que fossem independentes de qualquer tecnologia criada e que também fossem facilmente testáveis e validadas. 
+    <h3>Quem é beneficiado com a sua aplicação?</h3> 
+    <p>Qualquer usuário que precise acessar determinado conteúdo em uma página ou aplicativo. O benefício é universal. Ao atender as diretrizes WCAG, não apenas usuários que possuem uma determinada deficiência são beneficiados, mas também idosos, crianças em fase de pré-alfabetização, analfabetos funcionais, pessoas com uma determinada deficiência ou dificuldade temporária e usuários sem qualquer tipo de deficiência.
+    <h3>W3C e os níveis de acessibilidade WEB</h3>
+    <p>Nível A: é o menos exigente e inclui as páginas que cumprem certos critérios em conformidade com a WCAG como, por exemplo, a disponibilidade de legendas para áudios gravados ou as alternativas de texto para conteúdos audiovisuais, etc.
+    <p>Nivel AA: es el intermedio y el más requerido por las entidades que expiden certificaciones de accesibilidad web. Reúne los sitios web que respetan criterios más avanzados como la disponibilidad de subtítulos para audios en directo, la audiodescripción, el tamaño de texto aumentable, etc.
+    <p>Nível AA: é o intermediário e o mais requerido pelas entidades que expedem certificados de acessibilidade web. Reúne os websites que respeitam critérios mais avançados, como a disponibilidade de legendas para áudios ao vivo, audiodescrição, tamanho de texto aumentável, etc.
+    <h3>Entendendo os Quatro Princípios de Acessibilidade</h3>
+    <p>Perceptível - As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber.
+    <p>Operável - os componentes da interface do usuário e a navegação devem ser operáveis.
+    Isso significa que os usuários devem ser capazes de operar a interface (a interface não pode exigir interação que um usuário não possa realizar)
+    <p>Compreensível - As informações e a operação da interface do usuário devem ser compreensíveis.
+    Isso significa que os usuários devem ser capazes de entender as informações, bem como a operação da interface do usuário (o conteúdo ou a operação não pode estar além de sua compreensão)
+    <p>Robusto - O conteúdo deve ser robusto o suficiente para que possa ser interpretado de forma confiável por uma ampla variedade de agentes de usuário, incluindo tecnologias assistivas.
+    Isso significa que os usuários devem poder acessar o conteúdo à medida que as tecnologias avançam (à medida que as tecnologias e os agentes do usuário evoluem, o conteúdo deve permanecer acessível)
+    <h3>Como funciona a web?</h3>
+    <p>A World Wide Web, ou WWW, ou W3, ou simplesmente web, é um dos serviços oferecidos na Internet, concebido para disponibilizar permanentemente informações a todos os usuários. Desde 1991, quando foi criada por Tim Berners-Lee, que também criou o W3C, a web vem sendo utilizada em áreas cada vez mais diversas da atividade humana (informação, comunicação, educação, comércio, saúde, acesso a serviços públicos e privados, entre outras) e vem ganhando cada vez mais importância na vida cotidiana de um número cada vez maior de pessoas, em todo o mundo.
+
+Esse uso diversificado e maciço da web tornou seu usuário cada vez menos um leitor passivo (como acontecia no início) e cada vez mais um ator participativo (como é possível constatar observando os blogs e redes sociais). Assim, a web deixou de ser apenas um repositório de documentos estáticos, para se tornar um veículo hiperdinâmico de comunicação, expressão de opiniões, intercâmbio de conhecimentos, realização de negócios, ensino a distância e muitas outras utilizações que surgem a todo momento.
+
+A web é composta por um imenso conjunto de documentos, que nos são apresentados em pequenas porções chamadas de páginas web. Essas páginas e documentos possuem muitas interligações entre seus conteúdos, feitas por conexões chamadas de hiperlinks. Cada hiperlink cria uma relação com outra página (do mesmo ou de algum outro documento) ou com o endereço de outra parte da mesma página. Por exemplo, ao ler a versão web desta cartilha, dependendo do interesse e da necessidade, o leitor certamente irá utilizar os hiperlinks para avançar a outro item do mesmo capítulo, a outro capítulo ou a outro documento que não pertence a esta cartilha.
+
+Esse tipo de organização não linear, que permite várias sequências lógicas de leitura e vários níveis de aprofundamento nos assuntos, de acordo com o interesse e a necessidade do leitor, é chamado de hipertexto. O hipertexto, portanto, é um texto que possui marcações especiais, indicando sua ligação ou hiperlink com outros hipertextos. Além dos hiperlinks, as marcações do hipertexto indicam também sua estrutura, composta por títulos, subtítulos, listas, tabelas, formulários, entre outros elementos.
+
+A linguagem usada para a marcação dessas estruturas e hiperlinks nos hipertextos é chamada de Hypertext Markup Language, ou HTML. O protocolo usado para transferir os hipertextos entre os servidores (computadores ligados à Internet que armazenam os documentos) e os clientes (computadores dos usuários da Internet) é chamado de Hypertext Transfer Protocol, ou HTTP.
+
+A maior parte das informações e serviços é disponibilizada na Internet por meio da web. As páginas web não são armazenadas aleatoriamente, de maneira dispersa, mas, sim, com uma organização própria. um conjunto de páginas web interligadas e que possuem o mesmo endereço principal e a mesma administração é chamado de site ou sítio. O sítio web possui uma página inicial, também chamada de home page, considerada o ponto principal de acesso às outras páginas da aplicação ou do serviço.
+
+O propósito fundamental é fornecer acesso ao conteúdo disponibilizado para qualquer pessoa, independentemente de suas habilidades e/ou deficiências. 
+<h3>O que é a acessibilidade na web (importância e benefícios das páginas acessíveis)</h3>
+<p>A acessibilidade web combina programação, design e tecnologia para construir uma Internet sem barreiras que permita que todos os usuários tenham o entendimento, a aprendizagem, a navegação e uma interação plena com a web. Da mesma forma que a indústria e a arquitetura, por exemplo, concebem objetos, veículos e espaços adaptados às necessidades das pessoas com mobilidade reduzida ou problemas cognitivos, visuais e auditivos, a Internet também deve percorrer esse caminho.
+
+A iniciativa WAI é a indutora a nível mundial deste campo que zela para que as páginas web e seus conteúdos respeitem critérios de usabilidade e acessibilidade universal, de forma que qualquer internauta possa navegar pela rede independentemente das suas limitações físicas, intelectuais ou sensoriais. Os websites acessíveis também se beneficiam de outros aspectos como o aumento de visitas potenciais, uma maior velocidade de conexão, melhoria no posicionamento e reputação on-line (TrustRank), poupança de banda larga e uma maior compatibilidade com navegadores e dispositivos, etc.
+
+
+
+
+    
+</body>
+    
+
+
+</html>
